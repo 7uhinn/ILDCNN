@@ -1,2 +1,2 @@
-# ILDRetrievalSystem
+# ILDCNN
 UROP Project
